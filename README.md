@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows IoT Facial Recognition Door
 Home security systems are a growing field of projects for Makers. A self-built system is not only less expensive than a bulky professional installation, but it also allows for total control and customization to suit your needs. 
 
@@ -16,3 +17,6 @@ The step-by-step instruction for building this project can be found on https://m
 ===
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
+=======
+# FacialRecognitionSmartDoor
+>>>>>>> 2f960adc241bc4a51151546088bb16ecc89885e2
